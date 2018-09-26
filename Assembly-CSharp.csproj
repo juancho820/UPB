@@ -142,6 +142,9 @@
     <None Include="Assets\Topos\Juego\Prefabs\WR_wHiteRabbiT-sTudio\Scene\DancingRabbit\ReadMe.txt" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <None Include="Assets\Survival\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleBlendEffect.shader" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>E:/GitHub/UPB/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/GitHub/UPB/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -150,9 +153,6 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>E:/GitHub/UPB/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/GitHub/UPB/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Unity/2018.2.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
