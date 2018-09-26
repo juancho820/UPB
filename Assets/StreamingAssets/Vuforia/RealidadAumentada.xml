@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="OfficeBurger" size="10.000000 10.000000" />
+    <ImageTarget name="Ilforno" size="10.000000 10.000000" />
+    <ImageTarget name="Kabuki" size="10.000000 10.000000" />
+    <ImageTarget name="Pampa" size="10.000000 10.000000" />
+    <ImageTarget name="Asados" size="10.000000 10.000000" />
+    <ImageTarget name="halong" size="10.000000 5.704226" />
+    <ImageTarget name="Corral" size="200.000000 135.000000" />
+    <ImageTarget name="2a53c1353ca25f97c7e80cfaf712c984" size="200.000000 132.903229" />
+    <ImageTarget name="tree-2387781_960_720" size="200.000000 151.101791" />
+    <ImageTarget name="blanco" size="200.000000 200.000000" />
+    <ImageTarget name="triangulo" size="200.000000 200.000000" />
+    <ImageTarget name="cuadrado" size="200.000000 200.000000" />
+    <ImageTarget name="circulo" size="200.000000 200.000000" />
+    <ImageTarget name="a" size="200.000000 200.557098" />
+    <ImageTarget name="4mKKA" size="200.000000 200.000000" />
+    <ImageTarget name="marker" size="200.000000 200.000000" />
+    <ImageTarget name="marcadorJ" size="200.000000 200.000000" />
+  </Tracking>
+</QCARConfig>
